@@ -62,6 +62,18 @@ firefly-algorithm-interactive/
     └── DEVELOPER_GUIDE.md  # Developer handbook
 ```
 
+## عن صاحب المشروع | About the author
+
+**محمد نجيب مبارك (Mohammed Nageeb Mubarak)** — متخصص في المتابعة والتقييم والمساءلة والتعلم (MEAL)، ويدرس الماجستير في نظم المعلومات. يهتم بالبحث العلمي التطبيقي وتحليل البيانات ونظم المعلومات الذكية، ويسعى إلى الجمع بين الخبرة المهنية والتقنيات الحديثة لتطوير حلول عملية.
+
+**GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
+
+## About the author
+
+**Mohammed Nageeb Mubarak** works in Monitoring, Evaluation, Accountability and Learning (MEAL) and is pursuing a Master's degree in Information Systems. His developing interests include applied research, data analytics and intelligent information systems, with a focus on connecting professional practice with technology.
+
+**GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
+
 ## Academic note | ملاحظة أكاديمية
 
 The simulations illustrate Firefly Algorithm principles and are intended for **learning**, not for claiming benchmark performance or guaranteed global-optimal solutions.
