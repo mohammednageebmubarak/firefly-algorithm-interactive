@@ -8,7 +8,7 @@ Use these short snippets for **new projects**. They are optional and should be u
 
 ```markdown
 ### عن المطوّر
-**محمد نجيب مبارك** — متخصص في المتابعة والتقييم والمساءلة والتعلم (MEAL)، ويدرس الماجستير في نظم المعلومات. يهتم بالبحث العلمي التطبيقي وتحليل البيانات ونظم المعلومات الذكية.
+**محمد نجيب مبارك حاصل على البكالوريوس في هندسة وعلوم الكمبيوتر، ويدرس الماجستير في نظم المعلومات. تشمل اهتماماته المهنية والأكاديمية تحليل البيانات والتنقيب عنها والبحث العلمي التطبيقي ونظم المعلومات الذكية.**
 
 **GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
 ```
@@ -17,7 +17,7 @@ Use these short snippets for **new projects**. They are optional and should be u
 
 ```markdown
 ### About the developer
-**Mohammed Nageeb Mubarak** works in Monitoring, Evaluation, Accountability and Learning (MEAL) and is pursuing a Master's degree in Information Systems. His interests include applied research, data analytics, and intelligent information systems.
+**Mohammed Nageeb Mubarak holds a bachelor's degree in Computer Engineering and Computer Science and is pursuing a master's degree in Information Systems. His professional and academic interests include data analysis, data mining, applied research, and intelligent information systems.**
 
 **GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
 ```
@@ -27,9 +27,9 @@ Use these short snippets for **new projects**. They are optional and should be u
 ```html
 <!--
   Developer: Mohammed Nageeb Mubarak
-  Background: Monitoring, Evaluation, Accountability & Learning (MEAL)
-  Education: Master's student in Information Systems
-  Interests: Applied Research, Data Analytics, Intelligent Information Systems
+  Background: Data Analysis and Academic Research
+  Education: Bachelor's in Computer Engineering and Computer Science; Master's student in Information Systems
+  Interests: Data Analysis, Data Mining, Applied Research, Intelligent Information Systems
   GitHub: https://github.com/mohammednageebmubarak
 -->
 <meta name="author" content="Mohammed Nageeb Mubarak">
@@ -43,7 +43,7 @@ Use these short snippets for **new projects**. They are optional and should be u
 /**
  * Project: [Project Name]
  * Developer: Mohammed Nageeb Mubarak
- * Background: MEAL | Master's student in Information Systems
+ * Background: Data Analysis | Bachelor's in Computer Engineering and Computer Science | Master's student in Information Systems
  * GitHub: https://github.com/mohammednageebmubarak
  * Purpose: [Briefly describe what this module does]
  */
@@ -52,7 +52,7 @@ Use these short snippets for **new projects**. They are optional and should be u
 ```python
 # Project: [Project Name]
 # Developer: Mohammed Nageeb Mubarak
-# Background: MEAL | Master's student in Information Systems
+# Background: Data Analysis | Bachelor's in Computer Engineering and Computer Science | Master's student in Information Systems
 # GitHub: https://github.com/mohammednageebmubarak
 # Purpose: [Briefly describe what this module does]
 ```
