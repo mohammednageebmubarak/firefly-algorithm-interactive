@@ -74,6 +74,8 @@ firefly-algorithm-interactive/
 
 **GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
 
+**Reusable attribution templates | قوالب تعريف قابلة لإعادة الاستخدام:** [AUTHOR_SNIPPETS.md](docs/AUTHOR_SNIPPETS.md)
+
 ## Academic note | ملاحظة أكاديمية
 
 The simulations illustrate Firefly Algorithm principles and are intended for **learning**, not for claiming benchmark performance or guaranteed global-optimal solutions.
