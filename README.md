@@ -64,15 +64,19 @@ firefly-algorithm-interactive/
 
 ## عن صاحب المشروع | About the author
 
-**محمد نجيب مبارك حاصل على البكالوريوس في هندسة وعلوم الكمبيوتر، ويدرس الماجستير في نظم المعلومات. تشمل اهتماماته المهنية والأكاديمية تحليل البيانات والتنقيب عنها والبحث العلمي التطبيقي ونظم المعلومات الذكية.**
+**محمد نجيب مبارك حاصل على البكالوريوس في علوم وهندسة الكمبيوتر (Computer Science and Engineering)، ويدرس الماجستير في نظم المعلومات. تشمل اهتماماته المهنية والأكاديمية تحليل البيانات والتنقيب عنها والبحث العلمي التطبيقي ونظم المعلومات الذكية.**
 
-**GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
+**GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)  
+**LinkedIn:** [Mohammed Nageeb Mubarak](https://www.linkedin.com/in/mohammed-nageeb-mubarak-701779b3)  
+**Mobile | الجوال:** [00967778075416](tel:+967778075416)
 
 ## About the author
 
-**Mohammed Nageeb Mubarak holds a bachelor's degree in Computer Engineering and Computer Science and is pursuing a master's degree in Information Systems. His professional and academic interests include data analysis, data mining, applied research, and intelligent information systems.**
+**Mohammed Nageeb Mubarak holds a bachelor's degree in Computer Science and Engineering and is pursuing a master's degree in Information Systems. His professional and academic interests include data analysis, data mining, applied research, and intelligent information systems.**
 
-**GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
+**GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)  
+**LinkedIn:** [Mohammed Nageeb Mubarak](https://www.linkedin.com/in/mohammed-nageeb-mubarak-701779b3)  
+**Mobile | الجوال:** [00967778075416](tel:+967778075416)
 
 **Reusable attribution templates | قوالب تعريف قابلة لإعادة الاستخدام:** [AUTHOR_SNIPPETS.md](docs/AUTHOR_SNIPPETS.md)
 
