@@ -8,18 +8,26 @@ Use these short snippets for **new projects**. They are optional and should be u
 
 ```markdown
 ### عن المطوّر
-**محمد نجيب مبارك حاصل على البكالوريوس في هندسة وعلوم الكمبيوتر، ويدرس الماجستير في نظم المعلومات. تشمل اهتماماته المهنية والأكاديمية تحليل البيانات والتنقيب عنها والبحث العلمي التطبيقي ونظم المعلومات الذكية.**
+**محمد نجيب مبارك حاصل على البكالوريوس في علوم وهندسة الكمبيوتر (Computer Science and Engineering)، ويدرس الماجستير في نظم المعلومات. تشمل اهتماماته المهنية والأكاديمية تحليل البيانات والتنقيب عنها والبحث العلمي التطبيقي ونظم المعلومات الذكية.**
 
 **GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
+
+**LinkedIn:** [Mohammed Nageeb Mubarak](https://www.linkedin.com/in/mohammed-nageeb-mubarak-701779b3)
+
+**Mobile | الجوال:** 00967778075416
 ```
 
 ## README: English
 
 ```markdown
 ### About the developer
-**Mohammed Nageeb Mubarak holds a bachelor's degree in Computer Engineering and Computer Science and is pursuing a master's degree in Information Systems. His professional and academic interests include data analysis, data mining, applied research, and intelligent information systems.**
+**Mohammed Nageeb Mubarak holds a bachelor's degree in Computer Science and Engineering and is pursuing a master's degree in Information Systems. His professional and academic interests include data analysis, data mining, applied research, and intelligent information systems.**
 
 **GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
+
+**LinkedIn:** [Mohammed Nageeb Mubarak](https://www.linkedin.com/in/mohammed-nageeb-mubarak-701779b3)
+
+**Mobile | الجوال:** 00967778075416
 ```
 
 ## HTML source (add near the beginning of an HTML file)
@@ -28,9 +36,11 @@ Use these short snippets for **new projects**. They are optional and should be u
 <!--
   Developer: Mohammed Nageeb Mubarak
   Background: Data Analysis and Academic Research
-  Education: Bachelor's in Computer Engineering and Computer Science; Master's student in Information Systems
+  Education: Bachelor's in Computer Science and Engineering; Master's student in Information Systems
   Interests: Data Analysis, Data Mining, Applied Research, Intelligent Information Systems
   GitHub: https://github.com/mohammednageebmubarak
+  LinkedIn: https://www.linkedin.com/in/mohammed-nageeb-mubarak-701779b3
+  Mobile: 00967778075416
 -->
 <meta name="author" content="Mohammed Nageeb Mubarak">
 ```
@@ -43,8 +53,10 @@ Use these short snippets for **new projects**. They are optional and should be u
 /**
  * Project: [Project Name]
  * Developer: Mohammed Nageeb Mubarak
- * Background: Data Analysis | Bachelor's in Computer Engineering and Computer Science | Master's student in Information Systems
+ * Background: Data Analysis | Bachelor's in Computer Science and Engineering | Master's student in Information Systems
  * GitHub: https://github.com/mohammednageebmubarak
+ * LinkedIn: https://www.linkedin.com/in/mohammed-nageeb-mubarak-701779b3
+ * Mobile: 00967778075416
  * Purpose: [Briefly describe what this module does]
  */
 ```
@@ -52,14 +64,16 @@ Use these short snippets for **new projects**. They are optional and should be u
 ```python
 # Project: [Project Name]
 # Developer: Mohammed Nageeb Mubarak
-# Background: Data Analysis | Bachelor's in Computer Engineering and Computer Science | Master's student in Information Systems
+# Background: Data Analysis | Bachelor's in Computer Science and Engineering | Master's student in Information Systems
 # GitHub: https://github.com/mohammednageebmubarak
+# LinkedIn: https://www.linkedin.com/in/mohammed-nageeb-mubarak-701779b3
+# Mobile: 00967778075416
 # Purpose: [Briefly describe what this module does]
 ```
 
 ## Maintenance notes
 
-- Avoid including private email, phone number, or exact location in public repositories.
+- Only publish contact details you intentionally want public; public phone numbers may attract unsolicited calls or messages.
 - Keep the bio concise and accurate; do not imply you have completed a degree you are currently pursuing.
 - Keep project-specific technical documentation separate from the author bio.
 - A header comment is an attribution notice, **not** a software license. Add a LICENSE file separately if you decide to grant reuse rights.
