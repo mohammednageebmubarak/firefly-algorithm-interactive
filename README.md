@@ -64,13 +64,13 @@ firefly-algorithm-interactive/
 
 ## عن صاحب المشروع | About the author
 
-**محمد نجيب مبارك (Mohammed Nageeb Mubarak)** — متخصص في المتابعة والتقييم والمساءلة والتعلم (MEAL)، ويدرس الماجستير في نظم المعلومات. يهتم بالبحث العلمي التطبيقي وتحليل البيانات ونظم المعلومات الذكية، ويسعى إلى الجمع بين الخبرة المهنية والتقنيات الحديثة لتطوير حلول عملية.
+**محمد نجيب مبارك حاصل على البكالوريوس في هندسة وعلوم الكمبيوتر، ويدرس الماجستير في نظم المعلومات. تشمل اهتماماته المهنية والأكاديمية تحليل البيانات والتنقيب عنها والبحث العلمي التطبيقي ونظم المعلومات الذكية.**
 
 **GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
 
 ## About the author
 
-**Mohammed Nageeb Mubarak** works in Monitoring, Evaluation, Accountability and Learning (MEAL) and is pursuing a Master's degree in Information Systems. His developing interests include applied research, data analytics and intelligent information systems, with a focus on connecting professional practice with technology.
+**Mohammed Nageeb Mubarak holds a bachelor's degree in Computer Engineering and Computer Science and is pursuing a master's degree in Information Systems. His professional and academic interests include data analysis, data mining, applied research, and intelligent information systems.**
 
 **GitHub:** [mohammednageebmubarak](https://github.com/mohammednageebmubarak)
 
