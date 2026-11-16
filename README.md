@@ -45,12 +45,21 @@ Open the **[live learning website](https://mohammednageebmubarak.github.io/firef
 ### Use offline
 Download **[index.html](./index.html)** once, then open it in a modern browser. No network connection is needed for the built-in learning activities.
 
+
+## Developer documentation | توثيق المطورين
+
+To understand or extend the implementation, read **[Developer Guide / دليل المطوّر](docs/DEVELOPER_GUIDE.md)**. It documents the HTML and CSS structure, graphing functions, simulation equations and state, Arabic/English translation system, quiz data, and manual regression checks.
+
+لفهم الكود وإجراء تطويرات مستقبلية، ابدأ بقراءة **[دليل المطوّر](docs/DEVELOPER_GUIDE.md)**؛ يحتوي على شرح بنية الموقع والدوال والمحاكاة الرياضية والترجمة والاختبارات وخطوات التحقق قبل النشر.
+
 ## Project structure
 
 ```text
 firefly-algorithm-interactive/
 ├── index.html    # Complete bilingual interactive lesson
-└── README.md     # Project guide (AR / EN)
+├── README.md     # Project guide (AR / EN)
+└── docs/
+    └── DEVELOPER_GUIDE.md  # Developer handbook
 ```
 
 ## Academic note | ملاحظة أكاديمية
